@@ -12,6 +12,7 @@ Atualmente Desenvolvedor WEB, criando sites e operando na parte BACK-END. També
   &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />&nbsp;&nbsp;
   &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />&nbsp;&nbsp;&nbsp;
   &nbsp;&nbsp;<img width='40' height='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;<img width='60' height='40' src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/aws-icon.png" />&nbsp;&nbsp;&nbsp;
 </div> 
 
 ##
